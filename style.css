@@ -8,7 +8,7 @@
     --botao-ativo: #2a1ad4;
     --botao-inativo: rgba(26, 5, 255, 0.5);
     --texto-fundo: rgba(21, 0, 255, 0.3);
-   
+}
    
 body {
         background-color: var(--cor-de-fundo);
